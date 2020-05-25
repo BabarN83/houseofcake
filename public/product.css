@@ -1,0 +1,54 @@
+.order-form9 a img{
+    display: inline-block;
+    list-style: none;
+    width: auto;
+    height: 80px;
+
+    
+}
+
+body{
+    margin: 0px;
+    height: 0px;
+    
+}
+
+.head1{
+    text-align: center;
+    background-color: cadetblue;
+   
+}
+
+img{
+width: 100%;
+height: 400px;
+background-size: cover;
+
+
+}
+
+.carousel-item{
+    background-color: black;
+    
+}
+
+.carousel-item .d-block{
+    width: 500px !important;
+    height: 200px;
+    margin-top: 5px;
+    margin-left: 400px!important;
+    
+}
+.gotop{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
+    margin-left: 200px;
+    background-color: darkslateblue;
+    color: whitesmoke;
+    font-size: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+}

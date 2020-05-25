@@ -1,0 +1,16 @@
+.order-form2 a img{
+    display: inline-block;
+    list-style: none;
+    width: auto;
+    height: 100px;
+    align-items: center;
+    
+}
+
+body{
+    background-image:url(./thankimg/thankHouse-of-cake-logo.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+

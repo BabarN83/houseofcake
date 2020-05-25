@@ -1,0 +1,189 @@
+
+ /* .order-form4 a img{
+    display: inline-block;
+    list-style: none;
+    width: auto;
+    margin-top: 20px;
+    height: 100px;} */
+
+
+  
+.navbar{
+   height: 80px !important;
+   width: 100%;
+}
+.navbar-brand img{
+   display: inline-block;
+   list-style: none;
+   width: auto;
+   height: 80px;
+}  
+    
+    body{
+        background-image:url(./images/galimages/backi.jpg)
+        background-repeat: repeat;
+         width: 100%;
+         height: 100%;
+    }    
+
+.container{
+   width: 100%;
+   max-width: 1100px;
+   margin-left: 80px;
+}
+
+ h1{
+  text-align: center;
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: chartreuse;
+ 
+ }
+ 
+ header{
+ 
+ font-family: 'Dokdo', cursive;
+ font-size: 30px;
+ padding-top: 0px;
+ }
+ main{
+   
+    width: 100%;
+    margin-top: 40px;
+    
+ }
+ .box{
+  width: 250px;
+  float: left;
+  padding: 2px;
+  padding-left: 10px;  
+  display: block;
+  margin-left: 120px;
+ 
+ }
+ 
+ .gal{
+  width: 180px;
+ border-radius: 4px;
+ 
+ }
+ 
+ .gal:hover{
+   transform: scale(1.3,1.3);
+   transition: .6s transform;
+ 
+ }
+ 
+        
+        body{
+            background-image:url(./images/galbacki.jpg);
+            background-repeat: repeat;
+             width: 100%;
+            
+        }    
+    
+    
+     h1{
+      text-align: center;
+      font-size: 80px;
+      margin-left: 40px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: darkmagenta;
+     
+     }
+
+   h4{
+      font-size: 15px;
+      color: whitesmoke;
+      font-weight: bold;
+   }
+
+
+
+
+
+
+
+     header{
+     
+     font-family: 'Dokdo', cursive;
+     font-size: 30px;
+     padding-top: 0px;
+     }
+     main{
+        margin-left: 40px;
+        width: 100%;
+        margin-top: 40px;
+     }
+     .box{
+      width: 250px;
+      float: left;
+      padding: 4px;
+      padding-left: 10px;  
+      display: block;
+     
+     }
+     
+     .gal{
+      width: 180px;
+         border-radius: 4px;
+     
+     }
+     
+     .gal:hover{
+       transform: scale(1.3,1.3);
+       transition: .3s transform;
+     
+     }
+
+     .value{
+      width: 100%;
+      height: 350px;
+      position: relative;
+      background-image: url(./images/aboutimage/values.jpg);
+      background-size: cover;
+      
+  }
+  
+  .value .value1{
+      position: absolute;
+      width: 100%;
+      background-color:#0009 ;
+      transform: translate(-50%, -50%);
+      top: 50%;
+      left: 50%;
+     }
+   .value .value1 p{
+       color: whitesmoke;
+       font-size: 25px;
+       font-family: arial;
+       text-align: center;
+  
+   } 
+   .value .value1 h2{
+      color: whitesmoke;
+      font-size: 25px;
+      font-family: arial;
+      text-align: center;
+   } 
+  
+
+
+
+
+
+
+
+     .gotop{
+      position: fixed;
+      width: 50px;
+      height: 50px;
+      bottom: 40px;
+      right: 50px;
+      background-color: darkslateblue;
+      color: whitesmoke;
+      font-size: 50px;
+      text-decoration: none;
+      text-align: center;
+      line-height: 50px;
+  }
